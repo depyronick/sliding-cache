@@ -1,0 +1,24 @@
+{
+  "name": "sliding-cache",
+  "version": "0.0.1",
+  "description": "A node in-memory cache helper that serves an object from cache as long as it requested within the specified time frame.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p0d3r/sliding-cache.git"
+  },
+  "keywords": [
+    "node-cache",
+	"sliding-cache",
+	"node-in-memory-cache"
+  ],
+  "author": "p0d3r_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p0d3r/sliding-cache/issues"
+  },
+  "homepage": "https://github.com/p0d3r/sliding-cache#readme"
+}
